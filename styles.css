@@ -32,4 +32,5 @@
 #solve-button:hover,
 #solve-button:focus {
   background-color: salmon;
+  border: 2px solid rgb(92, 84, 83);
 }
