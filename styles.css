@@ -1,0 +1,29 @@
+#puzzle {
+  width: 450px;
+  height: 450px;
+}
+
+#puzzle input {
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+  border-spacing: 0;
+  border: 1px rgb(54, 32, 32) solid;
+}
+
+.color-section {
+  background-color: grey;
+}
+
+#solve-button {
+  background-color: grey;
+  color: blanchedalmond;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 5px;
+  border: 2px solid salmon;
+}
+#solve-button:hover,
+#solve-button:focus {
+  background-color: salmon;
+}
